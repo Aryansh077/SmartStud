@@ -1,0 +1,7 @@
+{
+  "name": "ssmartstud",
+  "description": "A comprehensive AI companion for students to explore fields of study, get real-time news, analyze courses, and use visual tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
